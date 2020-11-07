@@ -3,5 +3,5 @@ function goBack() {
 }
 
 function closeWarning() {
-	document.getElementsByTagName('aside')[0].style.display = 'none';
+	document.getElementsByTagName('aside')[0].style.display='none';
 }
